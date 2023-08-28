@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="br.ufal.ic.p2.jackut.Main" />
+    <module name="P2-2023.1-JACKUT" />
+    <option name="VM_PARAMETERS" value="-Dfile.encoding=ISO-8859-1" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value=".*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
